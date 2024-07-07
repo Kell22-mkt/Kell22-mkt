@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/QyJeq2MR7gkw5XbtGA" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-QyJeq2MR7gkw5XbtGA">via GIPHY</a></p>
+<img src="https://giphy.com/embed/QyJeq2MR7gkw5XbtGA" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-QyJeq2MR7gkw5XbtGA"> via GIPHY</a></p>
 
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
