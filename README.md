@@ -1,7 +1,6 @@
 ### Hi there 👋
-<img align="center" src="https://media0.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif?cid=ecf05e474tfsosmwlm5bidr7g1j1b0eii4qv2lmgkg0a0d4v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300"/> 
+<iframe src="https://giphy.com/embed/QyJeq2MR7gkw5XbtGA" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-QyJeq2MR7gkw5XbtGA">via GIPHY</a></p>
 
- 
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/Kell22-mkt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -25,7 +24,7 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
   <table>
     <tr>
       <td><b>🎓 Analista de Sistemas ADS </b></td>
-      <td><b>🧪 Desenvolvedora de Full-Stack</b></td>
+      <td><b>🧪 Desenvolvedora Back End </b></td>
     </tr>
     <tr>
       <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
@@ -69,6 +68,7 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
   <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
   <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
+ 
   <br>
 </div>
 
