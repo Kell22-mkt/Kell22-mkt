@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img src="https://media.giphy.com/media/3o7abkhOpu0NwenH3O/giphy.gif" width="400px">
+<img src="https://giphy.com/embed/LvlaXOfUxg9mPNGNBK"> width="400px">
 
 ## ⭐️ Hard Skills
 <div align="right">
