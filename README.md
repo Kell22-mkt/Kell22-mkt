@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="https://giphy.com/embed/W4IY7zQdRh7Ow"> width="480" height="326" style=" " frameBorder="0" class="giphy-embed" allowFullScreen </iframe> <a href="https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow">via GIPHY</a></p> width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-QyJeq2MR7gkw5XbtGA"> via GIPHY</a></p>
+
+<img src="https://giphy.com/embed/W4IY7zQdRh7Ow"> 
+<img href="https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow">
 
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
