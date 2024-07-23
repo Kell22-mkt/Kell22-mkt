@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img src="https://giphy.com/gifs/cat-computer-gato-LvlaXOfUxg9mPNGNBK" width="400px">
+<img src="https://giphy.com/gifs/cat-computer-gato-LvlaXOfUxg9mPNGNBK"> 
 
 
 ## 📊 Estatísticas do GitHub
