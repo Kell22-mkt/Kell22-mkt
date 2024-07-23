@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img src="https://giphy.com/embed/LvlaXOfUxg9mPNGNBK" width="480" height="480"  href="https://giphy.com/gifs/cat-computer-gato-LvlaXOfUxg9mPNGNBK">
+<img src="https://giphy.com/gifs/cat-computer-gato-LvlaXOfUxg9mPNGNBK">
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
