@@ -1,6 +1,17 @@
 # Hello, World! 👋
 
-<img src="https://giphy.com/embed/LvlaXOfUxg9mPNGNBK"> width="400px">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&theme=synthwave)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=synthwave)
+
+---
+
+![Snake animation](https://github.com/andreinaoliveira/andreinaoliveira/blob/output/github-contribution-grid-snake.svg)
+
 
 ## ⭐️ Hard Skills
 <div align="right">
@@ -8,14 +19,16 @@
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
   <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
   <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
   <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <!-- PHP --> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <!-- AWS --> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <!-- Azure --> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <!-- Flutter --> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
 </div>
 
@@ -68,12 +81,9 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
   </table>
 </div>
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&theme=synthwave)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=synthwave)
 
----
 
 ⭐️ Inspirado por [nome de usuário](link para o perfil)
+```
 
+Substitua os links e nomes de usuário com os seus dados. Se precisar de mais alguma modificação, estou à disposição!
