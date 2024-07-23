@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+<img src="https://giphy.com/gifs/cat-computer-gato-LvlaXOfUxg9mPNGNBK" width="400px">
 
 
 ## 📊 Estatísticas do GitHub
@@ -10,8 +10,33 @@
 
 ---
 
-![Snake animation](https://github.com/andreinaoliveira/andreinaoliveira/blob/output/github-contribution-grid-snake.svg)
+## ⭐️ Sobre mim
+<div align='center'>
+  <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
+</div><br>
 
+Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vincit,<b>Desenvolvedora Full Stack Pleno</b> </b>. Também gosto de trabalhar com desenvolvimento mobile na linguagem Flutter,</b>ando ampliando meu conhecimento em Desenvolvimento Web.
+<br><br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Analista de Sistemas </b></td>
+      <td><b>🧪 Desenvolvedora Back End </b></td>
+    </tr>
+    <tr>
+      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+    </tr>
+  </table>
+</div>
+
+<b>Além da programação...</b>
+
+- Amo Ciência.
+- Voluntária EngajaMundo e embaixadora no Papo Futuro
+- Gosto de ler, livros classicos e programação
+- Amo ficar com meu filho
 
 ## ⭐️ Hard Skills
 <div align="right">
@@ -32,6 +57,7 @@
   <br>
 </div>
 
+
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/Kell22-mkt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -43,33 +69,7 @@
   <!-- OTH Links -->
 </div>
 
-## ⭐️ Sobre mim
-<div align='center'>
-  <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
-</div><br>
 
-Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vincit,<b>Desenvolvedora Full Stack Pleno</b> </b>. Também gosto de trabalhar com desenvolvimento mobile na linguagem Flutter,</b>ando ampliando meu conhecimento em Desenvolvimento Web.
-<br><br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🎓 Analista de Sistemas ADS </b></td>
-      <td><b>🧪 Desenvolvedora Back End </b></td>
-    </tr>
-    <tr>
-      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
-    </tr>
-  </table>
-</div>
-
-<b>Além da programação...</b>
-
-- Amo Ciência.
-- Voluntária EngajaMundo e embaixadora no Papo Futuro
-- Gosto de ler, livros de epoca e programação
-- Amo ficar com meu filho
 
 <div align="center">
   <table>
@@ -81,9 +81,3 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
   </table>
 </div>
 
-
-
-⭐️ Inspirado por [nome de usuário](link para o perfil)
-```
-
-Substitua os links e nomes de usuário com os seus dados. Se precisar de mais alguma modificação, estou à disposição!
