@@ -1,6 +1,5 @@
 # Hello, World! 👋
 
-<img src="https://giphy.com/gifs/cat-computer-gato-LvlaXOfUxg9mPNGNBK">
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
@@ -24,7 +23,7 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
       <td><b>🧪 Desenvolvedora Back End </b></td>
     </tr>
     <tr>
-      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+      <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBlYnk5bW55dTNxZjFsODJlMXJ0eWZ5cnBic3B3aWVyeGI2ZHN2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" width="300px" height="170px"></td>
       <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
