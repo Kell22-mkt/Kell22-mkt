@@ -1,20 +1,23 @@
 # Hello, World! 👋
 
 
+## ⭐️ Sobre mim
+
+Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vincit,<b>Desenvolvedora Full Stack Pleno</b> </b>. Também gosto de trabalhar com desenvolvimento mobile na linguagem Flutter,</b>ando ampliando meu conhecimento em Desenvolvimento Web.
+<br><br>
+<div align='center'>
+  <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
+</div><br>
+
+---
+
+
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&theme=synthwave)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=synthwave)
 
 ---
-
-## ⭐️ Sobre mim
-<div align='center'>
-  <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
-</div><br>
-
-Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vincit,<b>Desenvolvedora Full Stack Pleno</b> </b>. Também gosto de trabalhar com desenvolvimento mobile na linguagem Flutter,</b>ando ampliando meu conhecimento em Desenvolvimento Web.
-<br><br>
 
 <div align="center">
   <table>
