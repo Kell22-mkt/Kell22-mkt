@@ -10,15 +10,6 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
 </div><br>
 
 ---
-
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&theme=synthwave)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=synthwave)
-
----
-
 <div align="center">
   <table>
     <tr>
@@ -31,6 +22,15 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
     </tr>
   </table>
 </div>
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&theme=synthwave)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=synthwave)
+
+---
 
 <b>Além da programação...</b>
 
@@ -71,14 +71,4 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
 </div>
 
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media0.giphy.com/media/iGfkcRNtl8tm8/giphy.gif?cid=ecf05e47a1k280sufqqv0vjqf9zvbwtrm6lc7injzbxk8vf8&ep=v1_gifs_search&rid=giphy.gif&ct=g"></td>
-      <td><img src="https://media4.giphy.com/media/UVH47VMR3kkhfyp1PE/giphy.gif?cid=ecf05e47shltas0lxcdvvn9s01nmsjc8wwfvn3wmq1h51kp7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></td>
-      <td><img src="https://media1.giphy.com/media/xT8qB45TTnypO1h6KY/giphy.gif?cid=ecf05e47famv5jqcgff87miupm62wvl8v6n1e9nvzbeq3uk2&ep=v1_gifs_search&rid=giphy.gif&ct=g"></td>
-    </tr>
-  </table>
-</div>
 
