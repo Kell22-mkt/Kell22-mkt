@@ -2,26 +2,15 @@
 
 
 ## ⭐️ Sobre mim
+### Sobre mim
 
-Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vincit,<b>Desenvolvedora Full Stack Pleno</b> </b>. Também gosto de trabalhar com desenvolvimento mobile na linguagem Flutter,</b>ando ampliando meu conhecimento em Desenvolvimento Web.
+👩‍💻 **Estudante de Análise e Desenvolvimento de Sistemas** pela Faculdade Vincit, com foco em **desenvolvimento Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
+
 <br><br>
 <div align='center'>
   <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
 </div><br>
 
----
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🎓 Analista de Sistemas </b></td>
-      <td><b>🧪 Desenvolvedora Back End </b></td>
-    </tr>
-    <tr>
-      <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBlYnk5bW55dTNxZjFsODJlMXJ0eWZ5cnBic3B3aWVyeGI2ZHN2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" width="300px" height="170px"></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -39,6 +28,23 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
 - Gosto de ler, livros classicos e programação
 - Amo ficar com meu filho
 
+-----
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Analista de Sistemas </b></td>
+      <td><b>🧪 Desenvolvedora Back End </b></td>
+    </tr>
+    <tr>
+      <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBlYnk5bW55dTNxZjFsODJlMXJ0eWZ5cnBic3B3aWVyeGI2ZHN2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" width="300px" height="170px"></td>
+      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+    </tr>
+  </table>
+</div>
+
+----
+
 ## ⭐️ Hard Skills
 <div align="right">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -55,7 +61,7 @@ Estudante em <b>Análise e desenvolvimento de Sistemas </b> pela Faculdade Vinci
   <!-- Azure --> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <!-- Flutter --> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <br>
+  
 </div>
 
 
