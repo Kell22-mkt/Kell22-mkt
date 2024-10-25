@@ -4,9 +4,8 @@
 ## ⭐️ Sobre mim
 
 
-👩‍💻 **Estudante de Análise e Desenvolvimento de Sistemas** pela Faculdade Vincit, com foco em **desenvolvimento Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
+👩‍💻 **#Estudante de Análise e Desenvolvimento de Sistemas** pela Faculdade Vincit, com foco em **desenvolvimento Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
 
-<br><br>
 <div align='center'>
   <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
 </div><br>
@@ -26,7 +25,7 @@
 - Amo Ciência.
 - Voluntária EngajaMundo e embaixadora no Papo Futuro
 - Gosto de ler, livros classicos e programação
-- Amo ficar com meu filho
+
 
 -----
 
@@ -34,11 +33,10 @@
   <table>
     <tr>
       <td><b>🎓 Analista de Sistemas </b></td>
-      <td><b>🧪 Desenvolvedora Back End </b></td>
+      <td><b></b></td>
     </tr>
     <tr>
       <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBlYnk5bW55dTNxZjFsODJlMXJ0eWZ5cnBic3B3aWVyeGI2ZHN2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" width="300px" height="170px"></td>
-      <td><img src="https://giphy.com/embed/l1J9qemh1La8b0Rag" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
