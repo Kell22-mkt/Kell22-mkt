@@ -3,7 +3,6 @@
 
 ## ⭐️ Sobre mim
 
-
 👩‍💻 **#Estudante de Análise e Desenvolvimento de Sistemas** pela Faculdade Vincit, com foco em **desenvolvimento Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
 
 <div align='center'>
@@ -25,28 +24,12 @@
 - Amo Ciência.
 - Voluntária EngajaMundo e embaixadora no Papo Futuro
 - Gosto de ler, livros classicos e programação
-
-
------
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🎓 Analista de Sistemas </b></td>
-      <td><b></b></td>
-    </tr>
-    <tr>
-      <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBlYnk5bW55dTNxZjFsODJlMXJ0eWZ5cnBic3B3aWVyeGI2ZHN2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" width="300px" height="170px"></td>
-    </tr>
-  </table>
-</div>
-
-----
+------
 
 ## ⭐️ Hard Skills
 <div align="right">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <!-- JavaScript--> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
@@ -62,7 +45,6 @@
   
 </div>
 
-
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/Kell22-mkt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -73,6 +55,7 @@
   <a href="https://instagram.com/criarcodigos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- OTH Links -->
 </div>
+
 
 
 
