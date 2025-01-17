@@ -5,6 +5,31 @@
 
 👩‍💻 **#Estudante de Análise e Desenvolvimento de Sistemas** pela Faculdade Vincit, com foco em **desenvolvimento Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
 
+
+------
+
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+
+
 <div align='center'>
   <b>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”- Carl Sagan</b>
 </div><br>
