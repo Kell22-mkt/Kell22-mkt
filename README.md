@@ -14,13 +14,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&theme=synthwave)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=synthwave)
-
----
-
 <b>Além da programação...</b>
 
 - Amo Ciência.
