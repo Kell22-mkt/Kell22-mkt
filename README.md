@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E7461&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+GitHub!;Analista+de+Sistemas+%7C+Back+End;Apaixonada+por+Tecnologia+e+Ciência+Retro!💡" alt="Typing SVG" />
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file-YKe8eDmortsKa7RA1zSYoq&ts=487175&p=fsns&cid=1&sig=306588ddadb69ca2b0fae0e328e0f934d7c1c201895daa6f8df5259cddd92999" alt="criando.tech" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ## 💜 Além da programação...
 
-- 💿 Amante de ciência, tecnologias retrô e ficção científica  
+- 💿 Ciência, tecnologias retrô e ficção científica  
 - 🌱 Voluntária no **EngajaMundo** e embaixadora no **Papo Futuro**
 - 📚 Apaixonada por livros clássicos e literatura sobre tecnologia
 
@@ -81,6 +81,6 @@
     <img src="https://img.shields.io/badge/@criando.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://www.linkedin.com/in/kellycarolinee/">
   </a>
 </div>
