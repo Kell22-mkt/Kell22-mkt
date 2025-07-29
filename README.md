@@ -3,7 +3,7 @@ Hello, World! 👋
  
 ## ⭐️ Sobre mim
 
-👩‍💻 **#Estudante de Análise e Desenvolvimento de Sistemas** pela Faculdade Vincit, com foco em **desenvolvimento Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
+👩‍💻 **# Analista de Sistemas**,com foco em **Back End**. Tenho experiência em **Java**, **PHP**, bancos de dados como **MySQL**, **MongoDB** e **PostgreSQL**, além de diversos frameworks. Apaixonada por tecnologia, estou sempre em busca de aprender e compartilhar conhecimento. Meu objetivo é crescer profissionalmente e alcançar a estabilidade com meus projetos.
 
 
 
@@ -16,7 +16,7 @@ Hello, World! 👋
 
 <b>Além da programação...</b>
 
-- Amo Ciência.
+- Ciência e Coisas Retro 
 - Voluntária EngajaMundo e embaixadora no Papo Futuro
 - Gosto de ler, livros classicos e programação
 ------
@@ -27,7 +27,6 @@ Hello, World! 👋
   <!-- JavaScript--> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
@@ -36,9 +35,10 @@ Hello, World! 👋
   <!-- AWS --> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <!-- Azure --> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <!-- GitHub --> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <!-- Flutter --> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  
-</div> 
+  <!-- C --> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
 
 <div align="center">
   <!-- Work Links -->
