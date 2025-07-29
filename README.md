@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file-YKe8eDmortsKa7RA1zSYoq&ts=487175&p=fsns&cid=1&sig=306588ddadb69ca2b0fae0e328e0f934d7c1c201895daa6f8df5259cddd92999" alt="criando.tech" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5hM3J6YzJqOXRnaDVnNDE2MWQxODF4aXhjc2RlcnZjdnA4MmlscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXp6wAeHU3Ds3UoNMG/giphy.gif" alt="giphy imagem" />
 </p>
 
 ---
