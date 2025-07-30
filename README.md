@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5hM3J6YzJqOXRnaDVnNDE2MWQxODF4aXhjc2RlcnZjdnA4MmlscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXp6wAeHU3Ds3UoNMG/giphy.gif" alt="giphy imagem" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRtZGhjajRtc3RvdWJ4ZjZoZ3hzNWh4cW11YTZlMzZqdm52cHRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/98uQnniC09A2W53IXw/giphy.gif" alt="giphy imagem" />
 </p>
 
 ---
@@ -81,6 +81,6 @@
     <img src="https://img.shields.io/badge/@criando.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://www.linkedin.com/in/kellycarolinee/">
+    <img src="https://www.linkedin.com/in/kellycarolinee"/>
   </a>
 </div>
