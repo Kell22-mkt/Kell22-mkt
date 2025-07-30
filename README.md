@@ -80,7 +80,7 @@
   <a href="https://www.instagram.com/criando.tech" target="_blank">
     <img src="https://img.shields.io/badge/@criando.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/kellycarolinee/"target="_blank">
     <img src="https://www.linkedin.com/in/kellycarolinee/" target= "blank"/>
   </a>
 </div>
