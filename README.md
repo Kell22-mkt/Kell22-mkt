@@ -81,6 +81,6 @@
     <img src="https://img.shields.io/badge/@criando.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kellycarolinee/"target="_blank">
-    <img src="https://www.linkedin.com/in/kellycarolinee/" target= "blank"/>
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
